@@ -1,7 +1,7 @@
 ### Hi, I'm Abdullokh Alimov👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> 
 
-## I'm a WebApp Developer and Machine Learning Beginner.
+## I'm a Software Engineer | INHA University CSE Student.
 
 - 🔭 I’m currently learning Python | Django and Machine Learning
 - 🌱 I like learning New Technologies and Languages
