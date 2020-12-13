@@ -12,8 +12,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:Alimov.Abdullokh8@gamil.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alimov_8)
 
-  <img align="left" alt="Abdullokh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alimov-8&show_icons=true&hide_border=true" />
-  
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
@@ -22,7 +20,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/>
 </p> 
+ 
+ <img align="left" alt="Abdullokh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alimov-8&show_icons=true&hide_border=true" />
   
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alimov-8&layout=compact)](https://github.com/Alimov8/github-readme-stats)
 
 <!--
