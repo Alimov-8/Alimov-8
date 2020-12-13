@@ -14,6 +14,17 @@
 
   <img align="left" alt="Abdullokh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alimov-8&show_icons=true&hide_border=true" />
   
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt="java" width="30" height="40"/>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="37" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/>
+</p> 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alimov-8&layout=compact)](https://github.com/Alimov8/github-readme-stats)
 
 <!--
