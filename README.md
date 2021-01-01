@@ -7,6 +7,7 @@
 - 🌱 I like learning New Technologies and Languages
 - 💬 Feel free to contact and ask any questions
 - ⚡ Facts:  Creative, Leader, and Founder 
+- 👣 2021: ... 
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/abdullokh-alimov-03a6701a7) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Alimov.Abdullokh8@gamil.com)](mailto:Alimov.Abdullokh8@gamil.com) 
