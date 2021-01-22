@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer | INHA University CSE Student.
 
-- 🔭 I’m currently learning Python, <b>Django</b> 🚀 and Machine Learning 🤖
+- 🔭 I’m currently learning Python, <b>Django</b> 🚀 and Data Structures & Algorithm 🤖
 - 🌱 I like learning New Technologies and Languages
 - 💬 Feel free to contact and ask any questions
 - ⚡ Facts:  Creative, Leader, and Founder 
