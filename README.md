@@ -22,10 +22,8 @@
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/>
 </p> 
  
- <img align="left" alt="Abdullokh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alimov-8&show_icons=true&hide_border=true" />
   
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alimov-8&layout=compact)](https://github.com/Alimov8/github-readme-stats)
 
 <!--
 **Alimov-8/Alimov-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
