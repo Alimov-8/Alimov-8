@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning Python, <b>Django</b> 🚀 and Data Structures & Algorithm 🤖
 - 🌱 I like learning New Technologies and Languages
 - 💬 Feel free to contact and ask any questions
-- ⚡ Facts:  Creative, Leader, and Founder 
+- ⚡ Facts:  Creative, Leader, and Smart|Hard Worker 
 - 👣 2021: to be Google Intern
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/abdullokh-alimov-03a6701a7) 
