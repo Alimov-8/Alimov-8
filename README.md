@@ -1,13 +1,13 @@
-### Hi, I'm Abdullokh Alimov👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> 
+## Abdullokh Alimov
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
-## I'm a Software Engineer | INHA University CSE Student.
+### I'm a Software Engineer | Machine Learning Developer | CSE Student @ INHA.
+<em> Python, Django, Algorithms, TensorFlow, Keras, OpenCV, Computer Vision, CMUSphinx </em>
 
-- 🔭 I’m currently learning <b>Python</b> (Django) 🚀 and Data Structures & Algorithm 🤖
-- 🌱 I like learning New Technologies and Languages
-- 💬 Feel free to contact and ask any questions
-- ⚡ Facts:  Creative, Leader, and Smart|Hard Worker 
-- 👣 2021: to be Google Intern, Machine Learning Project
+-  I’m currently learning <b>Python</b> (Django) and <b>Machine Learning</b> Algorithms and <b>Data Structures</b>
+-  I like reading <b>books</b> and learning new <b>technologies</b>
+-  <b>Creative</b>, Leader, and Smart & Hard Worker 
+-  2021: to be <b>Google Intern</b>, create <b>Machine Learning Projects</b> ...
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/abdullokh-alimov-03a6701a7) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Alimov.Abdullokh8@gamil.com)](mailto:Alimov.Abdullokh8@gamil.com) 
