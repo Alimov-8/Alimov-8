@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
 ### I'm a Software Engineer | Python Backend Developer | CSE Student @ INHA.
-<em> Python, Django, DRF, Algorithms </em>
+<em> Python, Virtualenvs, Django, DRF, Postman, Algorithms, SQL (MySQL, PostgreSQL), Docker, Heroku </em>
 
 -  I’m currently learning <b>Python</b> (Django) and <b>Data Structures</b> & Algorithms
 -  I like reading <b>books</b> and learning new <b>technologies</b>
