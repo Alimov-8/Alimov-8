@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
 ### Software Engineer | Python Developer | Computer Science Student @ INHA.
-<em> Python, Django, DRF, RESTful APIs, Relational Databse, ORM, MySQL, PostgreSQL, Docker, Git, Celery, RabbitMQ, Heroku </em>
+<em> Python, Django, DRF, RESTful APIs, SQL, Relational Databse, ORM, MySQL, PostgreSQL, Docker, Git, (Celery, RabbitMQ), Heroku </em>
 
 -  I'm currenlty learning Python, Django, Data Structures, Algorithms
 -  I like reading books, documentations and learning new technologies
