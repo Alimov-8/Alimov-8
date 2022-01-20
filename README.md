@@ -1,11 +1,11 @@
 # Abdullokh Alimov
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
-### Software Engineer | Python Developer | Computer Science Student @ INHA.
-<em> Python, Django, DRF, RESTful APIs, SQL, Relational Databse, ORM, MySQL, PostgreSQL, Docker, Git, (Celery, RabbitMQ), Heroku </em>
+### Software Engineer @ iTechArt | Computer Science Student @ INHA
+<em> Python, Django, DRF, RESTful APIs, FastAPI, SQL, Relational Databse, ORM, MySQL, PostgreSQL, Docker, Git, (Celery, RabbitMQ), Heroku </em>
 
 -  I'm currenlty learning Python, Django, Data Structures, Algorithms
--  I like reading books, documentations and learning new technologies
+-  I like reading books, docs and learning new technologies
 -  Creative, Leader, and Problem Solver
 -  [LinkedIn](https://www.linkedin.com/in/abdullokh-alimov-03a6701a7),
 [Email](mailto:Alimov.Abdullokh8@gamil.com),
