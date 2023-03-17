@@ -1,7 +1,7 @@
 # Abdullokh Alimov
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
-### Software Engineer @ iTechArt | Computer Science Student @ INHA
+### Software Engineer @ AppliedLabs | Computer Science Student @ INHA
 <em> Python, Django, DRF, FastAPI, REST APIs, SQL/NoSQL, MySQL, PostgreSQL, MongoDB, Redis, Git/GitHub, Docker, Celery, RabbitMQ, AWS </em>
 
 -  I'm currently learning Python, AWS, and Algorithms
