@@ -1,15 +1,15 @@
 # Abdullokh Alimov
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
-### Software Engineer @ AppliedLabs | Computer Science Student @ INHA
-<em> Python, Django, DRF, FastAPI, REST APIs, SQL/NoSQL, MySQL, PostgreSQL, MongoDB, Redis, Git/GitHub, Docker, Celery, RabbitMQ, AWS </em>
+### Software Engineer @ Applied Labs | Computer Science Student @ INHA
+<em> Python, Django, FastAPI, Flask, REST, GraphQL, SQL/NoSQL, MySQL, PostgreSQL, MongoDB, Redis, Git/GitHub, Docker, Celery, RabbitMQ, AWS </em>
 
 -  I'm currently learning Python, AWS, and Algorithms
 -  I like reading books, docs and learning new technologies
 -  Creative, Leader, and Problem Solver
--  [LinkedIn](https://www.linkedin.com/in/abdullokh-alimov-03a6701a7),
+<!-- -  [LinkedIn](https://www.linkedin.com/in/abdullokh-alimov-03a6701a7),
 [Email](mailto:Alimov.Abdullokh8@gamil.com),
-[Telegram](https://t.me/Alimov_8)
+[Telegram](https://t.me/Alimov_8) -->
 
 <em> Small Steps Everyday! <em>
 
