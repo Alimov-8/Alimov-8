@@ -1,4 +1,4 @@
-# Abdullokh Alimov
+<!-- # Abdullokh Alimov -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
 <!-- ### Software Engineer @ Applied Labs | Computer Science @ INHA 
