@@ -13,7 +13,7 @@
 [Email](mailto:Alimov.Abdullokh8@gamil.com),
 [Telegram](https://t.me/Alimov_8) -->
 
-<em> Small Steps Everyday! <em>
+<!-- <em> Small Steps Everyday! <em> -->
 
  
   
